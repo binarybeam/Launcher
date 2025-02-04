@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000001</color>
+    <color name="white">#FFFFFFFE</color>
+    <color name="blachite">#929292</color>
+    <color name="fg_toggle">#34929292</color>
+    <color name="fg_toggle_dark">#51929292</color>
+    <color name="blue">#2196F3</color>
+    <color name="grey">#2B2B2B</color>
+    <color name="transparent">#0000</color>
+    <color name="green">#4CAF50</color>
+</resources>

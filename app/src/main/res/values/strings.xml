@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Be Launcher</string>
+</resources>
+
+    <!--       cd /users/ayushpandey/library/android/sdk/platform-tools              -->
+    <!--       ./adb connect 192.168.1.5:                                          -->
