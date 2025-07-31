@@ -35,7 +35,7 @@ A clean, lightweight, and eye-catching Android launcher built with performance, 
 #### Option 2: From Source
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone [https://github.com/yourusername/your-repo.git](https://github.com/binarybeam/Launcher.git)
 cd your-repo
 ./gradlew installDebug
 ```
