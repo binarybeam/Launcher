@@ -45,7 +45,7 @@ cd your-repo
 ## 🛠️ Built With
 
 * [Kotlin](https://kotlinlang.org/)
-* \[Jetpack Compose / XML Layouts] *(whichever applies)*
+* Jetpack Compose / XML Layouts
 * [Android Jetpack](https://developer.android.com/jetpack)
 
 ---
