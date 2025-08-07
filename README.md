@@ -1,10 +1,10 @@
-# 🔹 Minimal Android Launcher
+# Minimal Android Launcher
 
 A clean, lightweight, and eye-catching Android launcher built with performance, simplicity, and elegance in mind. Say goodbye to bloat — just what you need, nothing more.
 
 ---
 
-## ✨ Features
+## Features
 
 * **Super Fast** – Ultra-light footprint ensures smooth performance on all devices
 * **Minimal UI** – Focused on essentials, distraction-free interface
@@ -17,14 +17,14 @@ A clean, lightweight, and eye-catching Android launcher built with performance, 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 🧩 Requirements
+### Requirements
 
 * Android 7.0+ (API 24+)
 * No special permissions needed
 
-### 🔧 Installation
+### Installation
 
 #### Option 1: Manual APK
 
@@ -42,11 +42,10 @@ cd your-repo
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * [Kotlin](https://kotlinlang.org/)
-* Jetpack Compose / XML Layouts
-* [Android Jetpack](https://developer.android.com/jetpack)
+* XML Layouts
 
 ---
 
