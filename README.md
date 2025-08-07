@@ -6,14 +6,14 @@ A clean, lightweight, and eye-catching Android launcher built with performance, 
 
 ## ✨ Features
 
-* 🚀 **Super Fast** – Ultra-light footprint ensures smooth performance on all devices
-* 🎯 **Minimal UI** – Focused on essentials, distraction-free interface
-* 🌙 **Dark Mode** – Clean dark theme that’s easy on the eyes
-* 📦 **App Drawer** – Simple, alphabetical app list with fast scrolling
-* 🔍 **Search Everything** – Quickly find apps with real-time search
-* 🎨 **Custom Icons (Optional)** – Support for third-party icon packs
-* 🔐 **Privacy First** – No data collection or background tracking
-* 📱 **Home Screen Shortcuts** – Add & remove with a tap
+* **Super Fast** – Ultra-light footprint ensures smooth performance on all devices
+* **Minimal UI** – Focused on essentials, distraction-free interface
+* **Dark Mode** – Clean dark theme that’s easy on the eyes
+* **App Drawer** – Simple, alphabetical app list with fast scrolling
+* **Search Everything** – Quickly find apps with real-time search
+* **Custom Icons (Optional)** – Support for third-party icon packs
+* **Privacy First** – No data collection or background tracking
+* **Home Screen Shortcuts** – Add & remove with a tap
 
 ---
 
